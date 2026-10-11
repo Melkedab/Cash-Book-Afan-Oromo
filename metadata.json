@@ -1,0 +1,6 @@
+{
+  "name": "Galmee Qarshii",
+  "description": "Galmee Qarshii fi Baasii - Cash Book app in Afaan Oromo and English with daily ledger, expense & income tracking, multi-currency support, privacy, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
